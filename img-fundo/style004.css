@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://dwglogo.com/wp-content/uploads/2017/08/Octocat_logo.png);
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    background-position: left center;
+
+    height: 97vh;
+    border: 1px dashed black;
+}

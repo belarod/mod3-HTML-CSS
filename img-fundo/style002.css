@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://dwglogo.com/wp-content/uploads/2017/08/Octocat_logo.png);
+    background-size: 200px 150px;
+    background-repeat: repeat; /*O padrão é REPEAT//no-repeat, repeat-x, repeat-y*/
+}
+
+h1{
+    color: lightcoral;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    display: inline;
+    padding: 5px;
+}
